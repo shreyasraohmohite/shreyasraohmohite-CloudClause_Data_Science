@@ -1,6 +1,6 @@
-# CodeClause_Loan_Prediction
+#CodeClause_Loan_Prediction
 
-## Loan Prediction Using Python
+##Loan Prediction Using Python
 
 The project is based on Loan Prediction to approve the loan or not
 
